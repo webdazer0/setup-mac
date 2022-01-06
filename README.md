@@ -27,7 +27,7 @@ nvm install lts
 > Search formulas in Brew if you don't know how to cancel
 
 ```bash
-brew cask install google-chrome istat-menus visual-studio-code spotify github postman iterm2 sizeup alfred
+brew install --cask google-chrome istat-menus visual-studio-code spotify github postman iterm2 sizeup alfred
 ```
 
 **Customizing iTerm2**
